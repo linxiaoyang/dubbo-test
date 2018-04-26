@@ -1,0 +1,5 @@
+group=shuqi.dubbotest.spi.activate.GroupActivateExtImpl
+value=shuqi.dubbotest.spi.activate.ValueActivateExtImpl
+order1=shuqi.dubbotest.spi.activate.OrderActivateExtImpl1
+order2=shuqi.dubbotest.spi.activate.OrderActivateExtImpl2
+shuqi.dubbotest.spi.activate.ActivateExt1Impl1

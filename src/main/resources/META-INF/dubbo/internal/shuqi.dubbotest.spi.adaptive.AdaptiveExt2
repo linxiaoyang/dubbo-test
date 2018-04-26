@@ -1,0 +1,3 @@
+dubbo=shuqi.dubbotest.spi.adaptive.DubboAdaptiveExt2
+cloud=shuqi.dubbotest.spi.adaptive.SpringCloudAdaptiveExt2
+thrift=shuqi.dubbotest.spi.adaptive.ThriftAdaptiveExt2
